@@ -1,0 +1,15 @@
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.csproj.AssemblyReference.cache
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.AssemblyInfoInputs.cache
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.AssemblyInfo.cs
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.csproj.CoreCompileInputs.cache
+C:\Daten\C#\Cnek\bin\Debug\net6.0\Cnek.exe
+C:\Daten\C#\Cnek\bin\Debug\net6.0\Cnek.deps.json
+C:\Daten\C#\Cnek\bin\Debug\net6.0\Cnek.runtimeconfig.json
+C:\Daten\C#\Cnek\bin\Debug\net6.0\Cnek.dll
+C:\Daten\C#\Cnek\bin\Debug\net6.0\Cnek.pdb
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.dll
+C:\Daten\C#\Cnek\obj\Debug\net6.0\refint\Cnek.dll
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.pdb
+C:\Daten\C#\Cnek\obj\Debug\net6.0\Cnek.genruntimeconfig.cache
+C:\Daten\C#\Cnek\obj\Debug\net6.0\ref\Cnek.dll
